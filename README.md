@@ -13,5 +13,8 @@ Not tested yet
 not tested yet 
 
 # credits
-MrMiinx for modding guide: https://www.youtube.com/watch?v=4Q7Zp5K2ywI
-ChatGpt for error solving
+- MrMiinxx for modding guide: https://www.youtube.com/watch?v=4Q7Zp5K2ywI
+- ChatGpt for error solving
+
+# Changes
+- 1.0.1: Updated Readme and manifest.json
